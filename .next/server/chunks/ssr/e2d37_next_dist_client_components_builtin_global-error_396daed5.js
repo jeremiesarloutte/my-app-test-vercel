@@ -1,0 +1,3 @@
+module.exports=[26287,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(91283);a.n(d("[project]/my-app-test-vercel/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},19659,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(91283);a.n(d("[project]/my-app-test-vercel/node_modules/next/dist/client/components/builtin/global-error.js"))},441,a=>{"use strict";a.i(26287);var b=a.i(19659);a.n(b)}];
+
+//# sourceMappingURL=e2d37_next_dist_client_components_builtin_global-error_396daed5.js.map
